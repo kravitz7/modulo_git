@@ -7,5 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2023-12-28
 
-### Added
-- Added changelog.md
+### Atualização
+- Adicionado changelog.md
+- Adicionado arquivos.txt
+- Arquvios.txt tiveram seus conteúdos atualizados.
